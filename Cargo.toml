@@ -1,0 +1,14 @@
+[package]
+name = "doublysure"
+version = "0.1.0"
+authors = ["Steven vanZyl <rushsteve1@rushsteve1.us>"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/rushsteve1/doublysure"
+description = "Using types to make sure that you're sure, sure, and doubly sure"
+categories = ["development-tools", "rust-patterns"]
+keywords = ["safety", "types", "utility"]
+
+[dependencies]
+# None!
