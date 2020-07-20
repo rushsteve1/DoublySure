@@ -4,6 +4,10 @@
 
 Development Status: **Alpha**
 
+[![GitHub CI Status](https://github.com/rushsteve1/DoublySure/workflows/Rust/badge.svg)](https://github.com/rushsteve1/DoublySure/actions?query=workflow%3ARust)
+[![Crates.io](https://img.shields.io/crates/v/doublysure)](https://crates.io/crates/doublysure)
+[![Docs.rs](https://docs.rs/doublysure/badge.svg)](https://docs.rs/doublysure/)
+
 ## Description
 
 Users get prompted to make sure they want to perform a destructive action, why
